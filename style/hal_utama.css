@@ -1,0 +1,97 @@
+
+  /* File: style.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background:url('/Gambar/bg.png') no-repeat center;
+    background-size: cover;
+  }
+
+/* Membuat text di dalam table bisa di scroll */
+  .scroll {
+    max-width: 85rem;
+    max-height: 100px;
+    overflow-y: auto;
+    text-align: left;
+  }
+  /* end */
+
+  /* Membuat Header */
+  header {
+    background: #ff6600;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+  
+  header p {
+    margin: 5px 0 0;
+  }
+  /* Header END */
+
+/* Membuat TABLE */
+
+  section{
+    height: 100vh;
+  }
+
+  main {
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #ff6600;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  table th {
+    background-color:  #ff6600;
+    color: white;
+  }
+  
+  table tr {
+    color: white;
+    background-color: #1e1e2f;
+  }
+  
+  table tr:hover {
+    background-color: #1e1e2f;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* Table end */
+
+
+  /* footer */
+  footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #1e1e2f;
+    color: white;
+  }
+  /* footer end */
