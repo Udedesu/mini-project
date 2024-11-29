@@ -25,31 +25,31 @@ const chaptersData = {
     // Chapter Naruto
   {
     id: "chapter1-container-naruto", // ID kontainer untuk chapter ini
-    basePath: "/Gambar/Naruto/1", // Path dasar gambar
+    basePath: "/images/Naruto/1", // Path dasar gambar
     totalImages: 91, // Total gambar untuk chapter ini
     missingIndexes: [], // Indeks gambar yang tidak ada
   },
   {
     id: "chapter2-container-naruto", // ID kontainer untuk chapter ini
-    basePath: "/Gambar/Naruto/2", // Path dasar gambar
+    basePath: "/images/Naruto/2", // Path dasar gambar
     totalImages: 22, // Total gambar untuk chapter ini
     missingIndexes: [1, 31], // Index gambar yang tidak ada
   },
   {
     id: "chapter3-container-naruto", // ID kontainer untuk chapter ini
-    basePath: "/Gambar/Naruto/3", // Path dasar gambar
+    basePath: "/images/Naruto/3", // Path dasar gambar
     totalImages: 23, // Total gambar untuk chapter ini
     missingIndexes: [], // Index gambar yang tidak ada
   },
   {
     id: "chapter4-container-naruto", // ID kontainer untuk chapter ini
-    basePath: "/Gambar/Naruto/4", // Path dasar gambar
+    basePath: "/images/Naruto/4", // Path dasar gambar
     totalImages: 19, // Total gambar untuk chapter ini
     missingIndexes: [], // Index gambar yang tidak ada
   },
   {
     id: "chapter5-container-naruto", // ID kontainer untuk chapter ini
-    basePath: "/Gambar/Naruto/5", // Path dasar gambar
+    basePath: "/images/Naruto/5", // Path dasar gambar
     totalImages: 18, // Total gambar untuk chapter ini
     missingIndexes: [], // Index gambar yang tidak ada
   }
